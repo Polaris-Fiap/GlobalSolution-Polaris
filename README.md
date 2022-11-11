@@ -12,6 +12,7 @@ João Henrique Freire de Sá - RM88822<br>
 
 Descrição do aplicativo: App dedicado à mulheres, onde elas podem informar locais que já sofreram algum tipo de ataque, seja assalto, assédio ou opressão no trânsito, para que possamos mostrar regiões que devem ser evitadas.
 <br>
+<br>
 link do github: https://github.com/Polaris-Fiap/GlobalSolution-Polaris
 <br>
 link do video: https://www.youtube.com/watch?v=oic38fEK-TQ
